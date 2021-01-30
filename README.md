@@ -1,7 +1,7 @@
-# dev.finances | Sinta a felicidade de estar no controle de suas finanças
+# dev.finances
 
 <h3 align="center">
-  <strong>dev.finances | Sinta a felicidade de estar no controle de suas finanças </strong>
+  <strong>Sinta a felicidade de estar no controle de suas finanças </strong>
 </h3>
 
 <img src="https://i.postimg.cc/Fzgw8W65/Captura-de-tela-de-2021-01-29-21-04-28.png" alt="dev.finances"/>
